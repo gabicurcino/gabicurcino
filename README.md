@@ -1,4 +1,4 @@
-Eai eu sou o Gabriel
+Eai eu sou o Gabriel :)
 
 🔥 Aprendendo PYTHON!
 
@@ -10,5 +10,4 @@ Eai eu sou o Gabriel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicurcino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="GABI-Python" height="30" width="40" 
-</div>
+  
